@@ -21,7 +21,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# Budget App <a name="about-project"></a>
+# Budget App <a name="about-proj"></a>
 
 Budget App is an expense tracking app that allows user to create new transactions associated with a category and see the money spent on each category.
 
